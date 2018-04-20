@@ -1,4 +1,5 @@
-# google-code-jam Solutions
-My first time at the competition. In this repo I will keep track for my solutions on 
-the current competition as for previous years.
+# google-code-jam Solutions attempts.
+Simple keep-track of solutions for the competition.
+Some of them don't even work.
+You've been warned :D
 
